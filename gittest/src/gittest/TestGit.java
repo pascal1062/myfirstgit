@@ -6,6 +6,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 		System.out.println("Bonjour à vous maintenant");
 		//System.out.println("Bonjour encore!");
+		System.out.println("Salut nouvelle branche");
 	}
 
 }
